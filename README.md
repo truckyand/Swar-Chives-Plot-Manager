@@ -3,7 +3,7 @@
 #### A plot manager for Chives plotting: https://chivescoin.org/
 [English](README.md) 
 
-![The view of the manager](https://i.imgur.com/hIhjXt0.png "View")
+![The view of the manager](chives-swar.jpg "View")
 
 ##### Development Version: v0.1.0
 ## This is a fork of [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) with support for Chives-blockchain
